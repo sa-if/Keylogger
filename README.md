@@ -1,6 +1,3 @@
-
-`Python Keylogger`
-
 `It is a Python based advanced Keylogger that can send keystrokes through your Gmail Account.🙂
 `
 
@@ -38,6 +35,7 @@ After executing the follwing command
      Run: python3 main.py 
 
 
+## Features
 - Send keystrokes through Gmail
 - Hide the log files
 - Python Based
