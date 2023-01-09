@@ -21,9 +21,9 @@ For support, email `saifislam23122005@gmail.com` or join `facebook` community.(â
 
 
 ## Features
-- Send keystrokes through Gmail
-- Hide the log files
-- Python Based
+- `Send keystrokes through Gmail`
+- `Hide the log files`
+- `Python Based`
 
 ## Usage/Examples
 
