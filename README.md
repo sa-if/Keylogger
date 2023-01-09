@@ -20,6 +20,11 @@ This project is used by the following individual:
 For support, email `saifislam23122005@gmail.com` or join `facebook` community.(●'◡'●)
 
 
+## Features
+- Send keystrokes through Gmail
+- Hide the log files
+- Python Based
+
 ## Usage/Examples
 
 ```python
@@ -35,9 +40,5 @@ After executing the follwing command
      Run: python3 main.py 
 
 
-## Features
-- Send keystrokes through Gmail
-- Hide the log files
-- Python Based
 
 
