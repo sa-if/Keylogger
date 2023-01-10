@@ -3,12 +3,12 @@
 `
 
 
-## Authors
+## Authors 👦🏻
 
 - [@saifislam](https://www.github.com/sa-if)
 
 
-## Used By
+## Used By 🧑‍🤝‍🧑
 
 This project is used by the following individual:
 
@@ -16,17 +16,17 @@ This project is used by the following individual:
 - `Shahriar Siddique`
 
 
-## Support
+## Support 💁🏻‍♂️
 
 For support, email `saifislam23122005@gmail.com` or join `facebook` community.(●'◡'●)
 
 
-## Features
+## Features 🙌🏻
 - `Send keystrokes through Gmail`
 - `Hide the log files`
 - `Python Based`
 
-## Usage/Examples
+## Usage/Examples 🎃
 
 ```python
 Run the following command on PowerShell:
